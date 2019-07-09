@@ -118,4 +118,17 @@
   publisher    = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Weart2007,
+  author       = {Richard B. Weart and Amy H. Lee and An-Chun Chien and Daniel P. Haeusser and Norbert S. Hill and Petra Anne Levin},
+  title        = {A Metabolic Sensor Governing Cell Size in Bacteria},
+  journaltitle = {Cell},
+  date         = {2007-07},
+  volume       = {130},
+  number       = {2},
+  pages        = {335--347},
+  doi          = {10.1016/j.cell.2007.05.043},
+  file         = {:Weart2007 - A Metabolic Sensor Governing Cell Size in Bacteria.pdf:PDF},
+  publisher    = {Elsevier {BV}},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
