@@ -58,7 +58,7 @@ date: \today
 
 # 07/07/2019
 * Counted the dilution plates for *P. fluorescens*, and put at 4°C
-* Plate SBW25-2 LB D0 $10^-7$ contaminated with green mould
+* Plate SBW25-2 LB D0 $10^{-7}$ contaminated with green mould
 	* Put parafilm around it to avoid spreading of spores
 * Created spreadsheets for glycerol stock and dilution plates
 * SBW25 did not produce many colonies in LB (10^-7 and 10^-6 dilutions)
@@ -108,3 +108,78 @@ REL606-6 M9	$1,14*10^9$
 
 # 09/07/2019
 * Put glycerol on the cryovials for tomorrow (10/07/19), beads in the labeled plates and medium (2 mL) in the tubes for the O/N cultures
+
+# 10/07/2019
+* This is my D5
+* Dilutions of the LTSP tubes in 2 96-wells [1 for LB and 1 for M9] plates in the following way
+	* $10^{-1}$ -> 5 $\mu$L culture in 45 $\mu$L Ringer's
+	* Other steps -> 20 $\mu$L previous step in 180 $\mu$L Ringer's
+	* MC -> 5 $\mu$L MC in 45 $\mu$L Ringer's
+* Dilution plates
+	* Check the dilutions!
+	* Plated 100 $\mu$L from the respective dilutions for the cultures
+	* Plated 50 $\mu$L from the $10^{-1}$ dilution for MC [the total volume!]
+	* SBW25 LB -> plated $10^{-6}$ and $10^{-5}$
+	* SBW25 M9 -> plated $10^{-6}$ and $10^{-5}$
+	* MG1655 LB -> plated $10^{-7}$, $10^{-6}$ and $10^{-5}$
+	* MG1655 M9 -> plated $10^{-6}$ and $10^{-5}$
+	* REL606 LB -> plated $10^{-7}$ and $10^{-5}$
+	* REL606 M9 -> plated $10^{-6}$ and $10^{-5}$
+* O/N cultures for the D5 glycerol stocks
+	* 2 $\mu$L of the LTSP culture in 2 mL medium
+* LTSP cultures brought back to 4 mL (added 0-500 $\mu$L mq$H_2O$ upon necessity)
+* Since some spare tubes with medium were available, inoculated them with mq$H_2O$ to test for contamination
+	* 1 LB tube put at 28°C, 1 M9 tube put at 37°C
+
+# 11/07/2019
+* The plate MC LB 37°C D5 is contaminated
+	* The tube itself looks clean
+	* I have plated its $10^{-1}$ dilution, and it has 112 colonies that look like MG1655
+	* The dilution plates of MG1655 and REL606 at $10^{-7}$ look fine, with 3-5 colonies each, far fewer than the MC
+	* I think the contamination could come from the dilution step, or a wrong plating
+	* I have plated again 50 $\mu$L form the LTSP MC LB 37°C on an LB plate
+	* I have washed the well in the 96 plate that I have used for inoculating the MC plate with 100 $\mu$L Ringer's, and used them for inoculating another LB plate
+	* Tomorrow I will see if these too gets contaminated
+* MG1655-1 LB is contaminated with a patina in both dilutions ($10^{-6}$ and $10^{-5}$), and the same is true for REL606-4 LB $10^{-6}$
+	* Colonies are still visible, and I have counted MG1655-1 LB $10^{-5}$ since it was the only countable one for that replicate
+	* The plate MC M9 37°C is clean
+* Counted *E. coli* D5 plates
+* REL606 in LB shows small colonies alongside the normal ones in all the replicates, which are absent from MG1655
+	* The small colonies have more defined margins
+	* I took 2 pictures with the microscope and showed them to Jenna, we will have a look at them tomorrow
+* CFU/mL in the D5 cultures
+
+Sample		CFU/mL
+-----------	-----------
+SBW25-1 LB	$*10$
+SBW25-2 LB	$*10$
+SBW25-3 LB	$*10$
+SBW25-1 M9	$*10$
+SBW25-2 M9	$*10$
+SBW25-3 M9	$*10$
+MG1655-1 LB	$4.2*10^8$
+MG1655-2 LB	$3.8*10^8$
+MG1655-3 LB	$2.8*10^8$
+MG1655-1 M9	$5.28*10^8$
+MG1655-2 M9	$7.4*10^8$
+MG1655-3 M9	$6.3*10^8$
+REL606-1 LB	$2.04*10^8$
+REL606-2 LB	$2.37*10^8$
+REL606-3 LB	$3.11*10^8$
+REL606-4 LB	$2.15*10^8$
+REL606-5 LB	$1.61*10^8$
+REL606-6 LB	$1.90*10^8$
+REL606-1 M9	$7.0*10^8$
+REL606-2 M9	$4.3*10^8$
+REL606-3 M9	$7.8*10^8$
+REL606-4 M9	$6.31*10^8$
+REL606-5 M9	$5.2*10^8$
+REL606-6 M9	$6.4*10^8$
+
+* Inoculated the glycerol stocks with 1 mL of the respective O/N cultures, and put at -80°C
+
+
+# 12/07/2019
+* Count *P. fluorescens* D5 plates
+* Move cultures to 28°C room (upstairs, first door on the right)
+

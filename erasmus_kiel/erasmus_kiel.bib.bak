@@ -127,8 +127,36 @@
   number       = {2},
   pages        = {335--347},
   doi          = {10.1016/j.cell.2007.05.043},
-  file         = {:Weart2007 - A Metabolic Sensor Governing Cell Size in Bacteria.pdf:PDF},
+  file         = {:/home/saul/Sync/erasmus_kiel/papers/Weart2007 - A Metabolic Sensor Governing Cell Size in Bacteria.pdf:PDF},
   publisher    = {Elsevier {BV}},
 }
 
+@Article{Pin2009,
+  author       = {Carmen Pin and Matthew D Rolfe and Marina Mu{\~{n}}oz-Cuevas and Jay CD Hinton and Michael W Peck and Nicholas J Walton and J{\'{o}}zsef Baranyi},
+  title        = {Network analysis of the transcriptional pattern of young and old cells of Escherichia coli during lag phase},
+  journaltitle = {{BMC} Systems Biology},
+  date         = {2009-11},
+  volume       = {3},
+  number       = {1},
+  doi          = {10.1186/1752-0509-3-108},
+  file         = {:Pin2009 - Network Analysis of the Transcriptional Pattern of Young and Old Cells of Escherichia Coli during Lag Phase.pdf:PDF},
+  publisher    = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Nystroem2003,
+  author    = {Thomas Nyström},
+  title     = {Conditional senescence in bacteria: death of the immortals},
+  journal   = {Molecular Microbiology},
+  year      = {2003},
+  volume    = {48},
+  number    = {1},
+  month     = {mar},
+  pages     = {17--23},
+  doi       = {10.1046/j.1365-2958.2003.03385.x},
+  file      = {:Nystroem2003 - Conditional Senescence in Bacteria_ Death of the Immortals:},
+  publisher = {Wiley},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: fileDirectory:/home/saul/Sync/erasmus_kiel/papers;}
