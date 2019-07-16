@@ -127,7 +127,7 @@
   number       = {2},
   pages        = {335--347},
   doi          = {10.1016/j.cell.2007.05.043},
-  file         = {:/home/saul/Sync/erasmus_kiel/papers/Weart2007 - A Metabolic Sensor Governing Cell Size in Bacteria.pdf:PDF},
+  file         = {:Weart2007 - A Metabolic Sensor Governing Cell Size in Bacteria.pdf:PDF},
   publisher    = {Elsevier {BV}},
 }
 
@@ -144,17 +144,55 @@
 }
 
 @Article{Nystroem2003,
-  author    = {Thomas Nyström},
-  title     = {Conditional senescence in bacteria: death of the immortals},
-  journal   = {Molecular Microbiology},
-  year      = {2003},
-  volume    = {48},
-  number    = {1},
-  month     = {mar},
-  pages     = {17--23},
-  doi       = {10.1046/j.1365-2958.2003.03385.x},
-  file      = {:Nystroem2003 - Conditional Senescence in Bacteria_ Death of the Immortals:;:Nystroem2003 - Conditional Senescence in Bacteria_ Death of the Immortals:},
-  publisher = {Wiley},
+  author       = {Thomas Nyström},
+  title        = {Conditional senescence in bacteria: death of the immortals},
+  journaltitle = {Molecular Microbiology},
+  date         = {2003-03},
+  volume       = {48},
+  number       = {1},
+  pages        = {17--23},
+  doi          = {10.1046/j.1365-2958.2003.03385.x},
+  file         = {:Nystroem2003 - Conditional Senescence in Bacteria_ Death of the Immortals.pdf:;:Nystroem2003 - Conditional Senescence in Bacteria_ Death of the Immortals:},
+  publisher    = {Wiley},
+}
+
+@Article{Avrani2017,
+  author       = {Sarit Avrani and Evgeni Bolotin and Sophia Katz and Ruth Hershberg},
+  title        = {Rapid Genetic Adaptation during the First Four Months of Survival under Resource Exhaustion},
+  journaltitle = {Molecular Biology and Evolution},
+  date         = {2017-03},
+  volume       = {34},
+  number       = {7},
+  pages        = {1758--1769},
+  doi          = {10.1093/molbev/msx118},
+  file         = {:Avrani2017 - Rapid Genetic Adaptation during the First Four Months of Survival under Resource Exhaustion.pdf:PDF},
+  publisher    = {Oxford University Press ({OUP})},
+}
+
+@Article{Ksiazek2010a,
+  author       = {Krzysztof Ksi{\k{a}}{\.{z}}ek},
+  title        = {Let's stop overlooking bacterial aging},
+  journaltitle = {Biogerontology},
+  date         = {2010-05},
+  volume       = {11},
+  number       = {6},
+  pages        = {717--723},
+  doi          = {10.1007/s10522-010-9278-3},
+  file         = {:Ksiazek2010a - Let's Stop Overlooking Bacterial Aging.pdf:PDF},
+  publisher    = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Finkel2006,
+  author       = {Steven E. Finkel},
+  title        = {Long-term survival during stationary phase: evolution and the {GASP} phenotype},
+  journaltitle = {Nature Reviews Microbiology},
+  date         = {2006-02},
+  volume       = {4},
+  number       = {2},
+  pages        = {113--120},
+  doi          = {10.1038/nrmicro1340},
+  file         = {:Finkel2006 - Long Term Survival during Stationary Phase_ Evolution and the GASP Phenotype.pdf:PDF},
+  publisher    = {Springer Nature},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

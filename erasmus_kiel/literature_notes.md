@@ -7,13 +7,36 @@ biblio-style: nature
 ---
 
 # Preliminary notes
-* REL606 is supposed to become senescent after 16 days [@Bacun-Druzina2007], and this has been confirmed by a previous experiment made by Jenna
+* REL606 is supposed to become senescent after 16 days [@Ksiazek2010] (I have not found this in the paper, look deeper), and this has been confirmed by a previous experiment made by Jenna
 
 # Abbreviations
 * LTSP: long term stationary phase
+* GASP: growth advantage in stationary phase
 
-# Stationary phase [Ksiazek2010]
-* 
+# Bacterial aging [@Ksiazek2010]
+* Aging is a set of changes that impair the ability to maintain homeostasis
+* In human somatic cells aging is manifested as inability to divide (replicative senescence)
+	* The maximum number of times a cell can divide is given by the Hayflick limit
+	* It does not depend on the cronological time
+	* Senescence can be triggered with stressors (SIPS, stress induced premature senescence)
+* Also *S. cerevisiae* shows senescence, probably mediated by the accumulation of cytoplasmic factors
+* The main way of bacterial replication is binary fission, which is a simmetric process mediated by FtsZ
+	* This simmetry has been traditionally considered as a proof that bacteria do not age
+	* The simmetry of division in *E. coli* is not reflected at the level of cellullar organization
+	* One of the daughter cells inherits pre-existing elements from the mother (old pole) while the other synthesizes these *de novo* (new pole)
+	* The linear discendence of the old pole shows senescence, and its replicative lifespan is of about 100 divisions
+	* The old pole elements are likely damaged DNA and proteins and fragments of cell wall
+* In their natural environment, usually bacteria are in nutrient starvation and enter in a stationary phase until conditions improve
+* In stationary phase, cell division and death are balanced, while in death fase cell death exceeds cell division
+* In stationary phase *E. coli* has chromosomes compacted by the induction of Dps, and ribosomes dimerized (inactive) because of the activation of rmf mediated by ppGpp
+	* There is also a change in cell size and morphology
+	* Cells become smaller and more spherical mainly because of RpoS activation
+		* This is mediated by action on *bolA* and *ftsQAZ*
+	* These changes are permanent even after bacteria are transferred to a nutrient-rich environment
+* *E. coli* cells are made senescent by staying in stationary phase for 16 days
+	* Expression of genes regulating carbohydrate metabolism, energy generation and macromolecule synthesis(*sdhA*, *cydA*, *cydB*, *murI*) is dowregulated
+	* There is accumulation of aberrant proteins, that begins in exponential phase
+* Loss of culturability in senescente cells can be reversed by reducing oxygen pressure (!)* Loss of culturability in senescente cells can be reversed by reducing oxygen pressure (!)
 
 # [@Westphal2018]
 * Attenuation of RpoS is strongly selected at the begenning (after 1 day) in *E. coli*

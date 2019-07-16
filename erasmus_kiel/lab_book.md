@@ -199,8 +199,45 @@ REL606-6 M9	$6.4*10^8$
 	* REL606 is slowly decreasing in LB, and stationary in M9
 	* SBW25 is stationary in LB, and increasing (!) consistently in M9
 		* It started lower, so it is maybe just normalizing
+* The LTSP cultures were moved to the 28°C room in a static rack at 3 pm of Friday
+	* This would be D8 at 3pm
+* 3 pm: LTSP cultures moved to 28°C room in a static rack because of the power outage
+
+# 13/07/2019
+* 11 pm: LTSP cultures moved back to the shakers because the power outage is over
+
+# 15/07/2019
+* We will make dilutions and stocks on D10 (wednesday), D12 (friday) D15 (monday) and D17 (wednesday) because we are near the supposed death of REL606 (D16)
+* Labeled all the dilution plates, tubes and criovials for D10 and D12
+* Put medium in D10 tubes and glycerol in criovials
+* Made O/N cultures in 2 mL LB from stocks of SBW25 (IIIA1-5), MG1655 (IIIA1-22) and REL606 (IIIA1-14) for extracting genomic DNA to be used in the test PCR
+* I made a mistake on the labels: what I considered D10 is actually D12, and D12 is D14
+	* Tomorrow I will correct it in RED ink in the plates, and with the same ink used for the stocks
+
+# 16/07/2019
+* The primers (SBW25_unique1_fw, SBW25_unique1_rv, MG1655_unique1_fw, MG1655_unique1_rv, REL606_unique1_fw, REL606_unique1_rv) have arrived
+	* Made stock solution 100 $\mu$M
+	* Made working stock 5 $\mu$M (10$\mu$L of stock in 200 $\mu$L total)
+* Extracted genomic DNA from O/N cultures of SBW25, MG1655 and REL606
+	* 1.5 mL eppis put at -20°C in my rack
+* I made a test PCR for the primers
+	* 94°C 10'+30*(94°C 30''+60°C 30''+72°C 1')+72°C 5'
+	* Samples labeled A1, A2, A3, A0, B1, B2, B3, B0, C1, C2, C3, C0
+		* A -> SBW25 specific primers
+		* B -> MG1655 specific primers
+		* C -> REL606 specific primers
+		* 1 -> SBW25 genomic DNA as a template
+		* 2 -> MG16555 genomic DNA as a template
+		* 3 -> REL606 genomic DNA as a template
+		* 0 -> no template ($H_2O$)
+	* Samples run in the following order in a 50 mL 1% gel, for 45 minutes at 80V
+		* Ladder A1 A2 A3 A0 B1 B2 B3 B0 C1 C2 C3 C0 Ladder Empty
+	* The bands look as expected, the primers work
+		* Gel image saved as 16-07-19_img1.pdf
+* Label of the D12 (ex D10) plates corrected with red marker
+* Label of the D14 (ex D12) plates corrected with various markers because it did not write well
+* D10 (actually D12) and D12 (actually D14) tubes not corrected because they will never be mixed up
+* Glycerol stocks of D12 (ex D10) and D14 (ex D12) corrected with the same ink used
 
 Future
 ---
-* Move cultures to 28°C room (upstairs, first door on the right) for the power outage of 13/07/2019
-
