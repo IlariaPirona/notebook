@@ -239,5 +239,126 @@ REL606-6 M9	$6.4*10^8$
 * D10 (actually D12) and D12 (actually D14) tubes not corrected because they will never be mixed up
 * Glycerol stocks of D12 (ex D10) and D14 (ex D12) corrected with the same ink used
 
+# 17/07/2019
+* Inoculated O/N tubes for D12
+* Inoculated dilution plates D12
+* Put medium in the D14 O/N tubes
+* Put glycerol in the D14 vials
+* I made a PCR for testing the small REL606 colonies observed in D5
+	* I used the primer pair REL606_unique1_fw/REL606_unique1_rv
+	* 12 samples
+		* 1 small colony from each REL606 replicate (6 in total, taken from the D5 plates)
+		* 2 big (normal) colonies from 2 of the REL606 replicates (taken from the D5 plates)
+		* 1 positive control with REL606 genomic DNA
+		* 1 negative control with water
+	* 94°C 10'+30*(94°C 30''+60°C 30''+72°C 1')+72°C 5'
+	* Samples run in the following order in a 50 mL 1% gel, for 45 minutes at 80V
+		* Ladder 1S 2S 3S 4S 5S 6S 1B 2B Ctr+ Ctr- Ladder Empty Empty Empty
+		* Both small colonies and big colonies are positive, the positive and negative control are as expected
+		* Image of the gel saved as 17-07-19_img1.pdf
+* Counted the number of small colonies and big colonies in the D5 plates (REL606 $10^{-5}$)
+	* REL606-1 big->68 small->119
+	* REL606-2 big->73 small->149
+	* REL606-3 big->82 small->198
+	* REL606-4 big->50 small->147
+	* REL606-5 big->58 small->118
+	* REL606-6 big->62 small->96
+
+# 18/07/2019
+* Inoculated glycerol vials with D12 O/N
+* Counted *E. coli* D12 dilution plates
+* In REL606 LB the small colonies are now (D12) the vast majority
+	* There are also some very tiny colonies, much smaller than the small ones (see REL606 LB D12 pictures)
+* Small colonies begun to appear in MG1655 LB
+	* The distinction between small and big is less clear than in REL606
+	* MG1655-1 big->45 small->0
+		* The $10^{-5}$ dilution had 387 colonies, of which around 70 were small (difficult to count the exact number)
+	* Mg1655-2 big->22 small->12
+	* Mg1655-3 big->21 small->21
+* Jenna proposed to do a NGS project with hers 6-months old *P. fluorescens* samples
+	* The samples are called Pf longterm 1-4
+		* Pf longterm 1 should be large colony, smooth, fluorescent
+		* Pf longterm 2 should be small colony, smooth
+		* Pf longterm 3 should be very small colony, smooth
+		* Pf longterm 4 should be medium-sized colony, possible colanic acid switcher
+	* They should be stored in IIIA3 29-32 but they are actually in IIIA3 24-28 (?, check)
+	* I have streaked them on LB plates, but I will probably streak them again on saturday so to be able to put the overnights on monday and do a genomic extraction on tuesday
+* Labeled D17 plates and O/N tubes
+
+# 19/07/2019
+* Inoculated plates and tubes D14
+* Prepared vials D17
+* Read D12 SBW25 plates
+* Updated the number of colonies in *E. coli* M9 D12, since many colonies were small and not visible yestarday
+* Still no diversity in M9 for all of the strains, in LB SBW25 shown many WS, big and small
+
+# 20/07/2019
+* Inoculated D14 glycerol stocks
+* Prepared D17 tubes
+* Put *E. coli* D14 plates in the fridge
+
+# 21/07/2019
+* Counted D14 plates
+* Streaked again Pf longterm plates for NGS (see 18/07/2019)
+
+# 22/07/2019
+* Inoculated D17 plates and O/N tubes
+
+| Template   | $MgCl_2$ (5x) | Buffer green (10x) | CES 5x   | dNTPs    | SBW25 FW | SBW25 RV | GoTaq      | $H_2O$   | TOT       |
+|------------|---------------|--------------------|----------|----------|----------|----------|------------|----------|-----------|
+| 0.5 $\mu$L | 3 $\mu$L      | 5 $\mu$L           | 5 $\mu$L | 1 $\mu$L | 4 $\mu$L | 4 $\mu$L | 0.5 $\mu$L | 2 $\mu$L | 25 $\mu$L |
+
+* I have checked by PCR a single colony from each Pf longterm sample (1-4) with SBW25-specific primers
+	* The sample was obtained by touching a pipette tip on the colony and rinsing it in 20 $\mu$L of sterile Ringer's in a 96 well
+		* 0.5 $\mu$L of this suspension were used as a template in the PCR
+	* 94°C 10'+30*(94°C 30''+60°C 30''+72°C 1')+72°C 5'
+	* Used SBW25 genomic DNA as a positive control and Ringer's as a negative control
+	* Run as Ladder(100bp)-1-2-3-4-Ctr+-Ctr-
+	* All samples are positive, controls as expected
+	* Gel in 22-07-2019_img1
+* I have set up the O/N cultures for Pf longterm 1-4, for genomic extraction
+	* The cultures are done in 4 mL LB in 13 mL tubes
+	* The tubes were inoculated with 2 $\mu$L of the suspension used for the PCR
+
+# 23/07/2019
+* I have counted the D17 *E. coli* plates
+	* MG1655 in M9 is going down sharply, next time I will plate $10^{-4}$, $10^{-2}$, $10^{0}$
+	* MG1655-2 M9 is extremely high compared to the other replicates (100 fold)
+		* This is consistent in both the dilution plates
+		* Also the OD of the O/N tube is visibly different
+			* MG1655-1 and -3 M9 do not show any visible growth in the O/N tube, but MG1655-2 M9 does
+* Michael Lachmann talk on the origin of life
+	* Selection can happen in absence of reproduction
+
+# 24/07/2019
+* Inoculated the tubes and plates for D19
+* I have counted the D17 *P. fluorescens* plates
+* Michael Lachmann talk on plasticity
+	* Genomes do not encode the whole phenotype
+	* Phenotype is partially encoded by the environment
+	* The genome has an optimal nuber of parameters for modelling a phenomenon, so to give smart responses and avoid overfitting
+
+# 25/07/2019
+* MG1655 in M9 shows a marked decreas in CFU/mL, and replicate 2 is much more viable than the other replicates
+	* I plated all the MG1655 M9 in LB plates to check if they develop different colony morphologies, especially MG1655-2
+		* I plated 100 $\mu$L of $10^{-4}$ for replicate 2, and $10^{-1}$ for the others
+* I counted the *E. coli* plates for D19
+	* Some colonies in M9 plates (MG1655) are still too small to be counted, will do that tomorrow
+* I will not be here on the weekend, so I will do next plating on monday (D24)
+
+# 26/07/2019
+* Counted all of the D19 plates
+* Next plating will be done in D24
+* Some colonies in SBW25 look weird
+	* Color is less intense, they are rounder, smaller
+* I made a PCR for testing some colonies of MG1655 M9 plated on LB and for the strange SBW25 LB colonies
+	* The 3 MG1655 M9 colonies tested are positive, they are MG1655
+	* The SBW25 LB colonies are all positive, except for 1 (colony B1 on the plate)
+	* I have also tested the Pf longterm genomic DNA with the respective primers (all positive)
+	* I have used one MG1655 colony as a control for the SBW25-specific primers and vice-versa
+	* Template vas obtained from a 20 $\mu$ suspension of the colony in mq$H_2O$
+	* See 26-07-19_img1
+	* I have used 0.5 $\mu$L of template in every case
+
 Future
 ---
