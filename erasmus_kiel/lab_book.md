@@ -357,8 +357,26 @@ REL606-6 M9	$6.4*10^8$
 	* I have also tested the Pf longterm genomic DNA with the respective primers (all positive)
 	* I have used one MG1655 colony as a control for the SBW25-specific primers and vice-versa
 	* Template vas obtained from a 20 $\mu$ suspension of the colony in mq$H_2O$
-	* See 26-07-19_img1
+	* See 26-07-2019_img1
 	* I have used 0.5 $\mu$L of template in every case
+	* One of the small SBW25 colonies (marked as B1 on the plate) is negative
+		* Could be an error in picking the colony?
+
+# 29/07/2019
+* Inoculated D24 tubes and plates
+	* I have plated/made stocks of only the REL606 (LB + M9) and MG1655 M9
+* Prepared ggplot graphs for the meeting with Jenna
+
+# 30/07/2019
+* Meeting with Jenna
+	* The results are interesting, although different from what we expected
+	* The WGS part of the project will probably begin in 2 weeks
+		* In the meantime I should install breseq and learn how it works
+	* We will plate every 2-3 days from now on
+* Counted D24 plates
+* Prepared D26 tubes and plates
+* Genomic DNA of Pf longterm (1-4) run in an 1% agarose gel 90V 1h by Anuradha (5 $\mu$L)
+	* It shows a sharp band above 10 kb, I will ask Jenna if it can be genomic
 
 Future
 ---
