@@ -377,6 +377,20 @@ REL606-6 M9	$6.4*10^8$
 * Prepared D26 tubes and plates
 * Genomic DNA of Pf longterm (1-4) run in an 1% agarose gel 90V 1h by Anuradha (5 $\mu$L)
 	* It shows a sharp band above 10 kb, I will ask Jenna if it can be genomic
+	* Saved as 30-07-2019_img1.bmp
+
+# 31/07/2019
+* Inoculated tubes and plates D26
+
+# 01/08/2019
+* Prepared tubes and plates D28
+* Counted MG1655 LB plates D26
+* REL606 LB $10^[-3]$ has too many colonies to be counted, but they are really small and less than on D24
+* The other plates need to grow more, will count them tomorrow
+* In M9 there is essentially nothing in all the plates
+	* Since it is a new batch, to check wether there is a problem with the medium I poured 1 mL of O/N REL606 with visible growth in 2 clean M9 plates (1 for each batch)
+* Initiated box 3 for the glycerol stocks
+* I started updating the glycerol stock spreadsheet
 
 Future
 ---
