@@ -381,6 +381,9 @@ REL606-6 M9	$6.4*10^8$
 
 # 31/07/2019
 * Inoculated tubes and plates D26
+* I have made 3 additional stocks with MG1655(1-3) M9 because they are almost dead
+	* I have spun down 4 mL of O/N and resuspended it in a bit more than 1 mL
+	* I have used 1 mL of this with 800 $\mu$L glycerol saline for the stock
 
 # 01/08/2019
 * Prepared tubes and plates D28
@@ -391,6 +394,66 @@ REL606-6 M9	$6.4*10^8$
 	* Since it is a new batch, to check wether there is a problem with the medium I poured 1 mL of O/N REL606 with visible growth in 2 clean M9 plates (1 for each batch)
 * Initiated box 3 for the glycerol stocks
 * I started updating the glycerol stock spreadsheet
+* I have installed breseq
+
+# 02/08/2019
+* Counted D26 plates
+* M9 plates are fine, there are colonies
+* I have inoculated D28 tubes and plates
+* I make more M9 plates
+
+# 03/08/2019
+* Inoculated D28 tubes and plates
+* Prepared D31 tubes and plates
+* Counted D26 plates
+
+# 05/08/2019
+* I counted M9 D28 plates
+* Inoculated tubes and plates D31
+
+# 06/08/2019
+* Finished counting D28 plates
+* Inoculate dglycerol stock D28
+* Counted some D31 plates (MG1655 LB)
+* Labeled tubes and plates for D39 (Tuesday after return from Italy)
+* 1 LB plates of SBW25-2 presents a colony that is a bit different from the others
+	* It is similar to smooth morph but is bigger and less defined
+	* Gokce said that it could be fuzzy spreader
+	* Jenna said it could just be a bigger colony
+	* I prepared an O/N in 2 mL LB from the colony and took pictures
+	* I will make a glycerol stock from the O/N
+
+# 07/08/2019
+* Went to lab early morning because from today to 12/08 I will be in Italy with Yaren
+* Counted the remaining D31 plates
+* Inoculated glycerol stock for possible fuzzy spreader (SBW25-2 LB D31)
+	* I labeled it with red marker as "SBW25-2 fuzzy spreader LB D31"
+
+# 13/08/2019
+* Inoculated tubes and plates D39
+	* Non-inoculated LB tubes labeled for the O/N of D39 prepared on 06/08/2019 were all contaminated by mold
+	* I prepared new tubes with a fresh LB bottle
+* Measured Pf longterm samples for NGS with NanoDrop for sequencing (will probably be done tomorrow)
+	* I sent the nanodrop reads and the sample labels to Jenna
+
+# 14/08/2019
+* MG1655-1 and -3 M9 do not show any colony on $10^0$, 100 $\mu$L
+	* Jenna plated them when I was in Italy with Yaren, and I repeated the plating on D39
+	* I will stop plating them
+	* I have inoculated for each of them 2 mL LB and 2 mL M9 with 200 $\mu$L of the long term culture, to see if something grows
+		* Immediately after inoculation, the tubes have the following OD
+			* MG1655-1 LB -> 0.14
+			* MG1655-3 LB -> 0.09
+			* MG1655-1 M9 -> 0.16
+			* MG1655-3 M9 -> 0.10
+* Medium control LB D39 37°C is contaminated by what seems like small wrinkly spreaders
+	* I will let it grow at 28 °C to see what happens
+* Counted some D39 plates
+* Inoculated D39 criovials
+	* I started box 4 in the -80 °C
+* I am helping Gokce with her plating
+
+
 
 Future
 ---
