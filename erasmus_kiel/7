@@ -454,48 +454,9 @@ REL606-6 M9	$6.4*10^8$
 * I am helping Gokce with her plating
 * MG1655-2 M9 has way too many colonies in both dilutions (-4, -3)
 	* I suppose a dilution error
-	* I plated again -4 and -3 (D40)
+	* Will plate again -4 and -3
 
-# 15/08/2019
-* Counted D39 plates
-* MG1655-1 and -3 M9 are definetely dead
-	* The O/N coltures prepared yesterday with 200 $\mu$L of inoculum in 2 mL of M9 and LB do not show any growth (OD measurement)
-			* MG1655-1 LB -> 0.07
-			* MG1655-3 LB -> 0.05
-			* MG1655-1 M9 -> 0.09
-			* MG1655-3 M9 -> 0.07
-* PCR of some D39 colonies with the respective primer pair
-	* 2 SBW25 LB colonies that looked like fuzzy spreaders
-		* I am not sure if they are FS, but I am calling them like this for convenience in my dataset
-	* 2 MG1655-2 M9 colonies, randomly
-		* This is the only replicate still alive
-	* 2 REL606 LB small colonies
-	* For each primer pair water was used as a control
-	* Everithing as expected, except for MG1655-2, where only one colony was positive
-		* Maybe was a PCR problem, will test more colonies tomorrow
-* MC D39 LB 37°C, which was contaminated and put at 28°C to see if the contamination was *P. fluorescens*, shows now yellow colonies
-	* They are really hard, and it seems they did not grow
-	* At the microscope they look like non-motile bacteria
-* I looked some of my coltures at the microscope
-	* SBW25 is, as expected, motile
-	* REL606 is, as expected, non-motile
-	* Strangely, MG1655 is also not motile
-#16/08/2019
-* 
 
-#19/08/2019
-* I performed control PCRs of MG1655-2 M9, which is consistently more viable than the other replicates
-	* Liquid MG1655-2 M9 culture with the 3 different primer pairs
-		* I used 0.5$\mu$L of the Ringer's suspension from the $10^{-1}$ dilution used for plating
-			* It is made of 45 $\mu$L Ringer's and 5 $\mu$L of culture
-	* I did also a PCR of 5 different colonies from the D40 dilution plate with MG1655 primers
-	* I did also 3 negative controls for the 3 primer pairs
-	* Everithing went as expected, there are no contaminations
-	* The gel was run the day after (20/08) and the sample were put at -5 for the night
-* Plated and made O/N for D45
-
-#20/08/2019
-* Counted part of the D45 plates
 
 Future
 ---
