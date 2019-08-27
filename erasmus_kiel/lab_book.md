@@ -480,10 +480,8 @@ REL606-6 M9	$6.4*10^8$
 	* SBW25 is, as expected, motile
 	* REL606 is, as expected, non-motile
 	* Strangely, MG1655 is also not motile
-#16/08/2019
-* 
 
-#19/08/2019
+# 19/08/2019
 * I performed control PCRs of MG1655-2 M9, which is consistently more viable than the other replicates
 	* Liquid MG1655-2 M9 culture with the 3 different primer pairs
 		* I used 0.5$\mu$L of the Ringer's suspension from the $10^{-1}$ dilution used for plating
@@ -494,8 +492,12 @@ REL606-6 M9	$6.4*10^8$
 	* The gel was run the day after (20/08) and the sample were put at -5 for the night
 * Plated and made O/N for D45
 
-#20/08/2019
+# 20/08/2019
 * Counted part of the D45 plates
 
-Future
----
+# 21/08/2019
+* Finished counting D45 plates
+* From now on I will write the report
+	* The tubes are still in the incubator
+
+
