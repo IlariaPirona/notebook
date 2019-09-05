@@ -500,4 +500,23 @@ REL606-6 M9	$6.4*10^8$
 * From now on I will write the report
 	* The tubes are still in the incubator
 
-
+# 30/08/2019
+* I analysed NGS data for Pf longterm
+* Pf longterm 1
+	* Pf longterm 1 should be large colony, smooth, fluorescent
+	* Mutation in Dna binding response regulator (PFLU_RS27420)
+* Pf longterm 2
+	* Pf longterm 2 should be small colony, smooth
+	* Big deletion in position 3326589 ($\Delta$ 213799 bp)
+	* Many small deletions
+	* Mutation in Dna binding response regulator (PFLU_RS27420)
+		* Same mutation in Pf longterm 1
+* Pf longterm 3
+	* Pf longterm 3 should be very small colony, smooth
+	* Big deletion in position 3326589 ($\Delta$ 213799 bp)
+	* Many small deletions
+	* Mutation in Dna binding response regulator (PFLU_RS27420)
+		* Same mutation in Pf longterm 1
+	* It has the same identical mutations of Pf longterm 2 (?) maybe there is some confusion
+* Pf longterm 4
+	* Pf longterm 4 should be medium-sized colony, possible colanic acid switcher
